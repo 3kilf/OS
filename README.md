@@ -7,3 +7,5 @@
 ### с)Основная программа main.cpp
 <img width="682" height="193" alt="image" src="https://github.com/user-attachments/assets/917e8b36-ea4e-47a0-8812-a53b7bb15685" />
 ### d)Компиляция и запуск
+<img width="650" height="141" alt="image" src="https://github.com/user-attachments/assets/845a24c0-c0b4-4fc1-832f-276fdd5adccf" />
+
