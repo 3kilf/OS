@@ -25,4 +25,17 @@
 ### Обновлённый Makefile
   <img width="409" height="401" alt="image" src="https://github.com/user-attachments/assets/14863df5-dc50-4c84-91bf-7586f2cf819d" />
 # Лабораторная работа №2
-# Лабораторная работа №3
+# Лабораторная работа №3а
+## Вариант 1 - Скопировать из все изображения в папку резервного хранения
+### Создание папок, из которой будем копировать и в которую будем копировать, и программы-скрипта на языке bash через nano
+<img width="320" height="48" alt="image" src="https://github.com/user-attachments/assets/027bed3c-b08b-455a-bdaf-33bc8c343c5f" />
+<img width="518" height="151" alt="image" src="https://github.com/user-attachments/assets/afc6aa51-a6f0-40ec-854c-4435e8cd0a0c" />
+### Создание картинок для копирования и лишнего txt файла. Запуск скрипта и проверка копирования
+<img width="440" height="190" alt="image" src="https://github.com/user-attachments/assets/ce55f566-19d3-4ec1-955f-e25d634fec0d" />
+# Лабораторная работа №3b
+## Изменение скрипта под powershell 
+<img width="230" height="34" alt="image" src="https://github.com/user-attachments/assets/cb45638e-b637-49a5-bd60-d7439a0b5543" />
+<img width="425" height="112" alt="image" src="https://github.com/user-attachments/assets/0a33535c-0ec4-4dd5-ac55-54457bfd5a27" />
+<img width="418" height="369" alt="image" src="https://github.com/user-attachments/assets/8c595fe0-1c17-46e1-b98f-86430c3053c2" />
+
+
