@@ -1,5 +1,5 @@
 # Лабораторная работа №1
-## 1.Реализация функции на C++
+## Реализация функции на C++
 ### Заголовочный файл fact.h
   <img width="403" height="128" alt="image" src="https://github.com/user-attachments/assets/619d8878-81c8-4117-a393-1d1b786efd7f" />
 ## Реализация функции fact.cpp
